@@ -1,0 +1,5 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.automannn.myModule2.config.Ability4Envir_1,\
+com.automannn.myModule2.config.Ability4Envir_2,\
+com.automannn.myModule2.config.MyModule2Configurations
